@@ -1,6 +1,7 @@
 # Comparative-Text-Analysis-Covid-Vaccine
-Group Project Title: Comparative Text Analysis: Sentiment and Discourse on COVID-19 Vaccination in Social Media v. Traditional Media
-project Members: Shivani Chowdhry, Dohyo Jeong, Pyung Kim
+**Group Project Title:** Comparative Text Analysis: Sentiment and Discourse on COVID-19 Vaccination in Social Media v. Traditional Media
+
+**Project Members:** Shivani Chowdhry, Dohyo Jeong, Pyung Kim
 
 **Project Overview:** This study aims to explore the differences in how social media and traditional news outlets discuss COVID-19 vaccination. By analyzing tweets and articles from major news outlets such as the New York Times and USA Today, the project seeks to uncover disparities in keyword usage and sentiment toward the vaccine between January and September 2021.
 
